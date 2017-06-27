@@ -5,4 +5,5 @@
                   [lein-bikeshed "0.4.1"]
                   [lein-ancient "0.6.10"]
                   [lein-midje "3.2.1"]
+                  [venantius/ultra "0.5.1"]
                   ]}}
